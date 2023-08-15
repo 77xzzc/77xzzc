@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @77xzzc
 - 👀 I’m interested in Computer Science, Networks and AI
 - 🌱 I’m currently learning Programming
-- 💞️ I’m looking to collaborate on metin2 bots
+- 💞️ I’m looking to collaborate on gaming bots
 - 📫 How to reach me lagb18071997@gmail.com
 
 <!---
